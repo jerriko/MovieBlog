@@ -1,0 +1,5 @@
+2018-06-27 09:45:27	user	http://35.192.239.117/admin/profile/	Profile saved - pass, admin_theme
+2018-06-27 09:48:59	user	http://35.192.239.117/	Added filedata to DB schema for 'images'
+2018-06-27 14:22:34	user	http://35.192.239.117/admin/setup/template/removeFields	Deleted field "headline" data in 2 row(s) from 2 page(s) using template "basic-page". [page-by-page]
+2018-06-27 14:22:34	user	http://35.192.239.117/admin/setup/template/removeFields	Deleted field "sidebar" data in 1 row(s) from 1 page(s) using template "basic-page". [page-by-page]
+2018-06-27 14:22:34	user	http://35.192.239.117/admin/setup/template/removeFields	Deleted field "images" data in 1 row(s) from 1 page(s) using template "basic-page". [page-by-page]

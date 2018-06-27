@@ -1,0 +1,1 @@
+2018-06-27 09:45:04	user	http://35.192.239.117/admin/login/	Successful login for 'user'
