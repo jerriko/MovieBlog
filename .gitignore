@@ -1,2 +1,7 @@
 config.php
 html/index.html
+<<<<<<< HEAD
+=======
+assets/sessions
+assets/logs
+>>>>>>> master
