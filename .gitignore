@@ -1,2 +1,4 @@
 config.php
 html/index.html
+assets/sessions
+assets/logs
